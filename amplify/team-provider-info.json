@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-webapp-vue-dev-20190917082949-authRole",
+            "UnauthRoleArn": "arn:aws:iam::589849493689:role/amplify-webapp-vue-dev-20190917082949-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::589849493689:role/amplify-webapp-vue-dev-20190917082949-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-webapp-vue-dev-20190917082949-deployment",
+            "UnauthRoleName": "amplify-webapp-vue-dev-20190917082949-unauthRole",
+            "StackName": "amplify-webapp-vue-dev-20190917082949",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:589849493689:stack/amplify-webapp-vue-dev-20190917082949/e09959c0-d8d9-11e9-994b-068a1e4f7940"
+        },
+        "categories": {
+            "auth": {
+                "amplifywebappvue8234fdc4": {}
+            }
+        }
+    }
+}
